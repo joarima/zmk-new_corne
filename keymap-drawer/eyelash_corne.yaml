@@ -37,7 +37,7 @@ layers:
   - {t: B, h: SYMBOL}
   - $$mdi:keyboard-space$$
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
-  - N
+  - {t: N, h: SYMBOL}
   - M
   - {t: ',', s: <}
   - {t: ., s: '>'}
@@ -135,7 +135,7 @@ layers:
   - {type: held}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
-  - _
+  - {t: _, type: held alternate}
   - +
   - '{'
   - '}'
