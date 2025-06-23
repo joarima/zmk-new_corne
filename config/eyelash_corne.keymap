@@ -68,9 +68,9 @@
         lower_layer {
             display-name = "NUMBER";
             bindings = <
-&kp ESCAPE  &kp N1  &kp N2  &kp N3  &kp N4                &kp N5                                                &msc SCRL_DOWN                  &kp GRAVE         &kp SQT            &kp EQUAL  &trans  &trans  &trans
-&trans      &kp N6  &kp N7  &kp N8  &kp N9                &kp N0                               &msc SCRL_RIGHT  &mkp RCLK       &msc SCRL_LEFT  &kp LEFT_BRACE    &kp RIGHT_BRACE    &kp MINUS  &trans  &trans  &trans
-&trans      &trans  &trans  &trans  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp C_MUTE                     &msc SCRL_UP                    &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp PLUS   &trans  &trans  &trans
+&kp ESCAPE  &kp N1  &kp N2  &kp N3  &kp N4                &kp N5                                               &msc SCRL_UP                     &kp GRAVE         &kp SQT            &kp EQUAL  &trans  &trans  &trans
+&trans      &kp N6  &kp N7  &kp N8  &kp N9                &kp N0                               &msc SCRL_LEFT  &mkp RCLK       &msc SCRL_RIGHT  &kp LEFT_BRACE    &kp RIGHT_BRACE    &kp MINUS  &trans  &trans  &trans
+&trans      &trans  &trans  &trans  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp C_MUTE                    &msc SCRL_DOWN                   &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp PLUS   &trans  &trans  &trans
                             &trans  &trans                &trans                                                                                &trans            &trans             &trans
             >;
 
